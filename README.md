@@ -1,6 +1,6 @@
 # Inventory-sales 
 
-Java console based application to manage sales and inventory. It manages the details of payment,stock quantity, purchasing, loss/gain per stock, etc.
+Console based JAVA application to manage sales and inventory. It manages the details of payment,stock quantity, purchasing, loss/gain per stock, etc.
 edditing and updating of records results in proper resource management.
 
 * Frontend - java console.
