@@ -1,4 +1,4 @@
-# Inventory-sales 
+# Inventory and sales management
 
 Console based JAVA application to manage sales and inventory. It manages the details of payment,stock quantity, purchasing, loss/gain per stock, etc.
 edditing and updating of records results in proper resource management.
