@@ -6,3 +6,6 @@ edditing and updating of records results in proper resource management.
 frontend - java console.
 backend - sql oracle o9 database.
 
+<div>
+  <img src="images/img.png" style="height:200px, width:150px"> </img>
+</div>
