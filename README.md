@@ -9,7 +9,7 @@ edditing and updating of records results in proper resource management.
 <br>
 <hr></hr>
 <p align="center">
-  <img src="images/img.png"  width="750" alt="accessibility text">
+  <kbd><img src="images/img.png"  width="750" alt="accessibility text"></kbd>
 </p>
 <hr></hr>
 
