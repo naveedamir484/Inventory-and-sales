@@ -6,9 +6,12 @@ edditing and updating of records results in proper resource management.
 * Frontend - java console.
 * Backend - sql oracle o9 database.
 
+<br>
+<hr></hr>
 <p align="center">
   <img src="images/img.png"  width="750" alt="accessibility text">
 </p>
+<hr></hr>
 
 
 # Technology Used
