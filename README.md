@@ -14,6 +14,11 @@ edditing and updating of records results in proper resource management.
 <hr></hr>
 
 
+* Join concepts are used while displying Sales Report
+* Only two tables are there in database Product & Order.
+* Sequence number is used to uniquely identify tuples.
+
+
 # Technology Used
 
 * language - Java 
